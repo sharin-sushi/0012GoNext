@@ -1,0 +1,23 @@
+1. Next.js導入
+    cd 
+    npx create-next-app
+
+
+2. git init
+    githubでprodubt作成
+    cd  
+    git 
+
+3. go導入
+    cd 
+        //メインのディレクトリ(ルートディレクトリ)
+    go install github.com/99designs/gqlgen@latest
+        //go の最新バージョンをインストール
+    go mod init  ：github.com/sharin-sushi/＊＊＊
+　　    githubのproductのページ
+        //go.modを構築　※やり直す場合はgo.modを消してから
+    (go get -u github.com/gin-gonic/gin      //最新のginを入れる
+    go mod tidy
+
+    go env
+　      //環境変数表示　GOROOT, GOPATHの確認
