@@ -21,3 +21,5 @@
 
     go env
 　      //環境変数表示　GOROOT, GOPATHの確認
+
+<p>git pull</p>
